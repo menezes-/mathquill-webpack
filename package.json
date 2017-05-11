@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/luxp/mathquill-webpack.git"
+    "url": "https://github.com/menezes-/mathquill-webpack"
   },
   "dependencies": {
     "jquery": "latest"
